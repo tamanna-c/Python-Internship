@@ -189,7 +189,7 @@ a=Myclass1()
 a.func1()"""
 
 #Task-14
-class Myclass:
+"""class Myclass:
     def func1(self,n1,n2):
         ans=n1+n2
         print("Ans is :",ans)
@@ -199,6 +199,6 @@ class Myclass:
     
 a=Myclass()
 #a.func1(14,78)
-a.func1(10,20,30)
+a.func1(10,20,30)"""
 
 
